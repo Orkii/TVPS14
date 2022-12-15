@@ -53,6 +53,24 @@ namespace TVPS14 {
     }
      
      */
+
+
+
+
+    class KA {
+        public Queue<int> input(Node node, Queue<int> ins) {
+            Queue<int> output = new Queue<int>();
+
+            while (ins.Count > 0) {
+                (Node, int) a = node.process(ins.Dequeue());
+                node = a.Item1;
+                output.Enqueue(a.Item2);
+            }
+
+            return output;
+        }
+    }
+
     class q1 : Node {
         public override (Node, int) process(int i) {
             if (i == 0)      return (new q2(), 0);
@@ -93,22 +111,6 @@ namespace TVPS14 {
             else throw new Exception("Wrong input");
         }
     }
-
-
-
-    class KA {
-        public Queue<int> input(Node node, Queue<int> ins) {
-            Queue<int> output = new Queue<int>();
-
-            while (ins.Count > 0) {
-                (Node, int) a = node.process(ins.Dequeue());
-                node = a.Item1;
-                output.Enqueue(a.Item2);
-            }
-
-            return output;
-        }
-    }
     class Program {
         static bool diff(string[] mass) {
             int count = 1;
@@ -125,8 +127,6 @@ namespace TVPS14 {
             if (count == 5) return true;
             return false;
         }
-
-
         static bool testBy3() {
             Node[] n = new Node[5];
             n[0] = new q1();
@@ -312,7 +312,6 @@ namespace TVPS14 {
             }
             return false;
         }
-
         static bool testBy5() {
             Node[] n = new Node[5];
             n[0] = new q1();
@@ -430,7 +429,6 @@ namespace TVPS14 {
             }
             return false;
         }
-
         static bool testBy6() {
             Node[] n = new Node[5];
             n[0] = new q1();
@@ -693,7 +691,6 @@ namespace TVPS14 {
             }
             return false;
         }
-
         static bool testBy7() {
             Node[] n = new Node[5];
             n[0] = new q1();
