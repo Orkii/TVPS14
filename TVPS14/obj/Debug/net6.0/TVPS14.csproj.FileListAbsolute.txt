@@ -1,0 +1,15 @@
+D:\Learn\TVPS\TVPS14\TVPS14\bin\Debug\net6.0\TVPS14.exe
+D:\Learn\TVPS\TVPS14\TVPS14\bin\Debug\net6.0\TVPS14.deps.json
+D:\Learn\TVPS\TVPS14\TVPS14\bin\Debug\net6.0\TVPS14.runtimeconfig.json
+D:\Learn\TVPS\TVPS14\TVPS14\bin\Debug\net6.0\TVPS14.dll
+D:\Learn\TVPS\TVPS14\TVPS14\bin\Debug\net6.0\TVPS14.pdb
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.csproj.AssemblyReference.cache
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.AssemblyInfoInputs.cache
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.AssemblyInfo.cs
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.csproj.CoreCompileInputs.cache
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.dll
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\refint\TVPS14.dll
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.pdb
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\TVPS14.genruntimeconfig.cache
+D:\Learn\TVPS\TVPS14\TVPS14\obj\Debug\net6.0\ref\TVPS14.dll
